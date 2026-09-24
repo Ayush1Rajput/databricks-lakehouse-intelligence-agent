@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Databricks local configuration
+.databricks/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Local datasets
+data/
+datasets/
+
+# Temporary files
+*.tmp
+*.temp
